@@ -45,13 +45,6 @@ We believe in the power of collaboration. Whether you're a developer, researcher
 - **Email**: [info@hubaix.com](mailto:info@hubaix.com)
 - **LinkedIn**: [Hubaix](https://www.linkedin.com/company/hubaix)
 
-## ⭐ Join Us
-
-If our mission resonates with you, consider joining our team!
-
-- **Careers**: [Open Positions](https://www.hubaix.com/careers)
-- **Internships**: [Internship Programs](https://www.hubaix.com/internships)
-
 ---
 
 *Thank you for visiting our GitHub profile! Don't forget to ⭐ our repositories if you find them useful.*
