@@ -23,9 +23,9 @@ At **Your Organization Name**, we are dedicated to pushing the boundaries of tec
 
 ## 🚀 Our Projects
 
-- **Project Alpha**: An AI-powered platform that personalizes user experiences in real-time.
-- **Project Beta**: A cross-platform mobile app connecting communities worldwide.
-- **Project Gamma**: A data analytics tool providing deep insights into market trends.
+- **Flogram Language**: An AI-powered platform that personalizes user experiences in real-time.
+- **Wael**: A cross-platform mobile app connecting communities worldwide.
+- **Jarvis AI System**: A data analytics tool providing deep insights into market trends.
 
 *Explore our repositories to learn more about our innovative projects!*
 
