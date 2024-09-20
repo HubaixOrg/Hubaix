@@ -42,15 +42,8 @@ We believe in the power of collaboration. Whether you're a developer, researcher
 ## 📫 Contact Us
 
 - **Website**: [www.hubaix.com](https://www.hubaix.com)
-- **Email**: [contact@hubaix.com](mailto:contact@hubaix.com)
+- **Email**: [info@hubaix.com](mailto:info@hubaix.com)
 - **LinkedIn**: [Hubaix](https://www.linkedin.com/company/hubaix)
-- **Twitter**: [@HubaixHandle](https://twitter.com/HubaixHandle)
-
-## 📚 Resources
-
-- **Blog**: [Insights and updates](https://www.hubaix.com/blog) on our latest work.
-- **Documentation**: [Detailed guides and API references](https://www.hubaix.com/docs).
-- **Tutorials**: [Step-by-step tutorials](https://www.hubaix.com/tutorials) to help you get started.
 
 ## ⭐ Join Us
 
